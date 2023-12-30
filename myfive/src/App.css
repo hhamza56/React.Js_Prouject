@@ -1,0 +1,94 @@
+
+*{margin: 0px;
+padding: 0px;}
+
+.div1{
+    background-color: white;
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+
+button{background-color: rgb(60, 60, 141);
+color: white;
+border-radius: 3px;
+padding: 8px;
+
+}
+.gt1{
+    background-color: white;
+    
+}
+
+.dic{
+    background-image: url(./image/bg-masthead.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+.sul{color: white;
+text-align: center;
+
+
+
+}
+.input{
+    padding: 7px;
+    border-radius: 5px;
+    padding-right: 25px;
+    /* display: ; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.btn{padding: 5px;
+margin: 10px;}
+
+
+.thir{
+
+
+  display: flex;
+  justify-content: space-around;
+  color: blue;
+  font-size: 50px;
+  margin-top: 35px;
+  padding-left: 80px;
+
+}
+
+.divb{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.gull{
+    background-image: url(./image/bg-showcase-1.jpg);
+    background-size: cover;
+    margin: 0px;
+    height: 280px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.ghy{
+    padding: 15px;
+}
+
+.bfd{
+    background-image: url(./image/bg-showcase-2.jpg);
+    background-size: cover;
+    height: 280px;
+    
+}
+.dth{
+padding: 60px;
+padding-left: 25px;
+}
